@@ -1,6 +1,6 @@
 :root {
   --branding-color: #6c63ff;
-  --secondary-color: #fbf2d5;
+  --secondary-color: #f0e8e0;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -71,6 +71,12 @@ p {
 
 .project-description {
   padding: 120px 60px;
+}
+
+.navbar-brand {
+  background-color: #f0e8e0;
+  padding: 10px 15px;
+  font-size: 24px;
 }
 
 @media (max-width: 900px) {
