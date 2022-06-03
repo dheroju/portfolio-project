@@ -32,6 +32,9 @@ p {
   font-size: 16px;
   line-height: 30px;
 }
+p a {
+  color: var(--branding-color);
+}
 
 .hero {
   background: var(--secondary-color);
