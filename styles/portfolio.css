@@ -40,6 +40,10 @@ p a {
   color: var(--branding-color);
 }
 
+.shot {
+  width: 400px;
+}
+
 .hero {
   background: var(--secondary-color);
   text-align: center;
